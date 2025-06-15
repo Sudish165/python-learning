@@ -17,11 +17,11 @@
 # print (a+d)
 
 
-a = input("enter first number: ")
-b = input("enter second number: ")
-print (a + b)
+# a = input("enter first number: ")
+# b = input("enter second number: ")
+# print (a + b)
 
-print(type(a))
+# print(type(a))
     
 # a = "my name is " \
 # " sudish karki"
