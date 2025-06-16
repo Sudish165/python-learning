@@ -18,8 +18,8 @@
 # k = l + m #2tai list ko index jodxa
 # print(k)
 
-l = [33, 22 ,44 , 2 ,3 , 4]
-l.insert(3, 888)  #jun index halyaa xa teslai replace garxa
-l.extend(l)  #add garxa naya list lai purano list sangaa
+# l = [33,02, 22, 44 , 2 ,3 , 4]
+# l.insert(3, 888)  #jun index halyaa xa teslai replace garxa
+# l.extend(l)  #add garxa naya list lai purano list sangaa
 # print(l)
 

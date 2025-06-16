@@ -4,11 +4,12 @@
 #     i = i +1
 
 
-# i = int(input("Enter the number: "))
-# while (i<=10):
+i = int(input("Enter the number: "))
+while (i<=10):
 #   i = int(input("Enter the number: "))
-#   print(i)
-# print("Done with the loop")
+  print(i)
+  i +=1
+print("Done with the loop")
 
 
 # R = 5

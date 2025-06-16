@@ -1,4 +1,4 @@
-
+# # 1. Arithemetic operators
 
 # sudish1 = 8
 # sudish2 = 7
@@ -19,21 +19,36 @@
 # print(pow)
 
 
-#2. comparison operators
+# # 2. comparison operators
+
+# sudish1 = 8
+# sudish2 = 7
+
+# print(sudish1==sudish2)
+# print(sudish1>=sudish2)
+# print(sudish1<=sudish2)
+# print(sudish1!=sudish2)
+
+
+
+# # 3. Logical operators and , or , not
+
+# print(sudish1>=sudish2 and sudish1<=sudish2)
+# print(sudish1<=sudish2 and sudish1>=sudish2)
+
+# print(sudish1>=sudish2 or sudish1<=sudish2)
+# print(sudish1<=sudish2 or sudish1>=sudish2)
+
+
+# # 4. Assignment Operators
 
 sudish1 = 8
-sudish2 = 7
 
-print(sudish1==sudish2)
-print(sudish1>=sudish2)
-print(sudish1<=sudish2)
-print(sudish1!=sudish2)
+sudish1 += 1
+print(sudish1)
 
+sudish1 += 1
+print(sudish1)
 
-
-#3. Logical operators and , or , not
-
-print(sudish1>=sudish2 and sudish1<=sudish2)
-print(sudish1<=sudish2 and sudish1>=sudish2)
-print(sudish1>=sudish2 or sudish1<=sudish2)
-print(sudish1<=sudish2 or sudish1>=sudish2)
+sudish1 **=3
+print(sudish1)
