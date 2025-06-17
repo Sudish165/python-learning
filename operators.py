@@ -42,13 +42,14 @@
 
 # # 4. Assignment Operators
 
-sudish1 = 8
+# sudish1 = 8
 
-sudish1 += 1
-print(sudish1)
+# sudish1 += 1
+# print(sudish1)
 
-sudish1 += 1
-print(sudish1)
+# sudish1 += 1
+# print(sudish1)
 
-sudish1 **=3
-print(sudish1)
+# sudish1 **=3
+# print(sudish1)
+

@@ -22,5 +22,3 @@
 # l.insert(3, 888)  #jun index halyaa xa teslai replace garxa
 # l.extend(l)  #add garxa naya list lai purano list sangaa
 # print(l)
-
- 
