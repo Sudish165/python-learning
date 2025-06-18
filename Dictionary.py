@@ -34,4 +34,4 @@ print(dict1.get("name"))
 #set default function
 dict.setdefault("Place:", "New York")
 
-print("Dictionary after updating", dict1)
+print("Dictionary after updating",dict1)
